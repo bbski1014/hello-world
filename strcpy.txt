@@ -15,5 +15,5 @@ char* strcpy(char* src){
 }
 
 /**
-本地edit
+远程edit
 **/
