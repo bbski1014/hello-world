@@ -1,7 +1,7 @@
 char* strcpy(char* src){
     int len = 0;
     char* p = src;
-    while(*src != '\0'){
+    while(*p != '\0'){
         len++;
         p++;
     }
